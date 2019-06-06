@@ -10,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teerasej/vscode-Nextflow-AWS-Docker-Training-Extension-Pack.git"
+      },
     "extensionPack": [
         "AmazonWebServices.aws-toolkit-vscode",
         "christian-kohler.npm-intellisense",
