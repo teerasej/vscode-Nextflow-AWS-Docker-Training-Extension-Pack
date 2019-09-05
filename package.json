@@ -2,7 +2,7 @@
     "name": "nextflow-aws-docker-training-pack",
     "displayName": "Nextflow's AWS Docker Training Extension Pack",
     "description": "Provide essential extensions that useful in working with Amazon Web Service and Docker",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "teerasej",
     "engines": {
         "vscode": "^1.34.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/teerasej/vscode-Nextflow-AWS-Docker-Training-Extension-Pack.git"
